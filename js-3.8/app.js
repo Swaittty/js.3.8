@@ -92,7 +92,7 @@
 //         const data = await response.json();
 //         console.log("Данные успешно получены:", data);
 //     } catch (error) {
-//         console.log("Произошла ошибка при запросе:", error);
+//         console.log("Произошла ошибка:", error);
 //     }
 // }
 //
